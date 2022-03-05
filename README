@@ -46,3 +46,9 @@ Configuration
 -------------
 The configuration of dwm is done by creating a custom config.h
 and (re)compiling the source code.
+
+thanks for Bugswriter for this wonderfull thing 
+#important you need to install following packages for AUR
+
+    libxft-bgra-git 
+    ttf-joypixels ---> fonts 
